@@ -4,6 +4,8 @@ Through the Shortcut Concierge API, you are able to view available services, fin
 * https://<span></span>api.shortcutpros.com/**_function_name_** for the production environment
 * https://<span></span>api-dev.shortcutpros.com/**_function_name_** for the sandbox environment
 
+To get in touch with Shortcut and request an API Key, please reach out to support@getshortcut.co.
+
 ### Functions
 
 [pullConciergeServices](#pullConciergeServices)
