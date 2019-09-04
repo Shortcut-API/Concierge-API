@@ -253,6 +253,7 @@ Appointment:
     beforeCouponCost: number, // The subtotal before credits, promos, or tax have been applied.
     creditAmt: number,
     promoAmt: number,
+    convenienceFee: number,
     tax: number,
     charge: number, // The total cost after credits, promos, and tax have been applied.
   },
