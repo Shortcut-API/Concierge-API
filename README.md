@@ -1,6 +1,10 @@
 # **Concierge API**
 
-Through the Shortcut Concierge API, you are able to view available services, find Shortcut Pros, and book appointments. All API calls are accomplished by making `POST` requests to:
+Through the Shortcut Concierge API, you are able to view available services, find Shortcut Pros, and book appointments. 
+
+To get started, view our [Concierge Platform Setup Guide](https://github.com/Shortcut-API/Concierge-API/wiki/Concierge-Platform-Setup-Guide) and the [Shortcut Concierge FAQ](https://github.com/Shortcut-API/Concierge-API/wiki/Shortcut-Concierge-FAQ).
+
+All API calls are accomplished by making `POST` requests to:
 * https://<span></span>api.shortcutpros.com/**_function_name_** for the production environment
 * https://<span></span>api-dev.shortcutpros.com/**_function_name_** for the sandbox environment
 
